@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582509213683",
+    "project_id": "loadkaro-cf512",
+    "storage_bucket": "loadkaro-cf512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582509213683:android:90a508c7c487073a57c486",
+        "android_client_info": {
+          "package_name": "com.example.loadkaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582509213683-afnf2p25l2mecacrin6jglg4urufqqkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loadkaro",
+            "certificate_hash": "40e70247a55d72bdfd02a3f39738a94bb4a56f97"
+          }
+        },
+        {
+          "client_id": "582509213683-lpkh6jn7j8pntmelqrq2tb9u8tceb11f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX__15fiWhIyvtbkK0VwTU_f9MonELT3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582509213683-lpkh6jn7j8pntmelqrq2tb9u8tceb11f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
